@@ -176,3 +176,17 @@ h1 { font-size: calc( pow( var(--factor), 3 ) * 1rem); }) </p>
 <p> bij de interactie heb ik geleerd wat een focus is en hoe je die toevoegd in de code. Voor mensen die kleurblind zijn een dubbele rand toegevoegd waar ik normaal niet aan zou denken. </p>
 
 <h2> 16/11/2026 </h2>
+<h3> Wat we in de les hebben gedaan </h3>
+<p> scanbaar lezen oefening </p>
+
+<h3> Verkenning ontwerp </h3>
+
+<h4> Oefening 1 (rangschikken) </h4>
+
+<h4> Oefening 2 (eigen verkenning) </h4>
+<li> De inventarisatie:  </li> 
+<li> De toon </li>
+<li> Jouw content </li>
+<li> Op welke manier </li>
+
+<h4> oefening 3 </h4>
