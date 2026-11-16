@@ -135,4 +135,44 @@ h1 { font-size: calc( pow( var(--factor), 3 ) * 1rem); }) </p>
 
 [Bekijk mijn schermopname](./readme-images/oefening4.0.mov)
 
-<p>
+<img src="readme-images/oefening4.1.png" width="150">
+<img src="readme-images/oefening4.2.png" width="150">
+<img src="readme-images/oefening4.3.png" width="400">
+
+<p> Ik heb eerst uitgeprobeerd een hover toe te voegen dat de achtergrond kleur veranderd naar zwart. Daarna heb ik ook nog toegevoegd dat de letters groter worden als je op de letters hovert. </p>
+
+<img src="readme-images/oefening4.5.png" width="150">
+<img src="readme-images/oefening4.4.png" width="400">
+<p> Om het iets aparter te maken heb ik ook een rotation toegevoegd als je over de letters gaat. Ik wist eerst niet waarom twee verschillende transform niet werkte maar dat kwam omdat ik ze apart in de code had gezet ( transform: scale / transform: rotate) ipv achter elkaar. </p>
+<p> verder ben ik gaan experimenteren met de snelheid en grote </p>
+
+<img src="readme-images/puff4.png" width="150">
+<img src="readme-images/puff5.png" width="150">
+<img src="readme-images/puff6.png" width="400">
+
+<p> Voor de andere poster wou ik dat de kleur zou veranderen en zou draaien. </p>
+
+<img src="readme-images/puff7.png" width="150">
+<img src="readme-images/puff8.png" width="400">
+
+<p> Ben daarna gaan kijken welke dingen nog meer mogelijk waren zoals een blur. </p>
+
+<img src="readme-images/puff9.png" width="150">
+<img src="readme-images/puff10.png" width="400">
+<p> Als laatst heb ik nog uitgeprobeerd dat de letters schijn gaan in combinatie met scale. </p>
+
+<h4> 4. Interactie: van niet lelijk, naar niet stuk (praktische css) </h4>
+
+<img src="readme-images/cssinteractie1.png" width="400">
+<p> Ik heb de link toegevoegd en in css de hover (pink) aangekoppeld. Hiermee krijgt de gebruiker feedback dat die over een link gaat. </p>
+
+<img src="readme-images/cssinteractie2.png" width="400">
+<p> na het toevoegen van het formulier ben ik de witruimtes gaan aanpassen. Ik moest wel even terug spieken wat je ook alweer precies moest doen. </p>
+
+<img src="readme-images/cssinteractie3.png" width="400">
+<p> Ik heb geleerd hoe je custom properties toevoegen aan je HTML selector en waarvoor het is. Omdat de achtergrond van de button grijs was heb ik de veranderd naar licht roze omdat ik dat mooier vond. </p>
+
+<img src="readme-images/cssinteractie4.png" width="400">
+<p> bij de interactie heb ik geleerd wat een focus is en hoe je die toevoegd in de code. Voor mensen die kleurblind zijn een dubbele rand toegevoegd waar ik normaal niet aan zou denken. </p>
+
+<h2> 16/11/2026 </h2>
