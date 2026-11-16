@@ -1,15 +1,138 @@
-sprint 0
-Kickoff (9/11/2026):
+<h1> Learning log Helena </h1>
 
-1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
-source hosting platform is een platform die mijn website op het internet kan publiceren en ik heb gekozen voor Github.
+<h2> Sprint 0 Kickoff (9/11/2026): </h2>
 
-2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
-ik heb de domein naam Helenagarden genoemd en die heb ik gekoppeld door te regristeren en betalen in transIP en in github pages de website te koppelen.
+<h3> 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.</h3>
+<p> source hosting platform is een platform die mijn website op het internet kan publiceren en ik heb gekozen voor Github. </p>
 
-3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
-ik kan aanpassingen maken door de code te veranderen in VSCodium. Vervolgens sla ik de wijzigingen op en maak ik via Source Control een commit met een beschrijving van de aanpassing. Daarna klik ik op 'Sync Changes' om de wijzigingen naar GitHub te sturen. Via GitHub Pages worden de aanpassingen automatisch gepubliceerd. 
+<h3> 2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina. </h3>
+<p> ik heb de domein naam Helenagarden genoemd en die heb ik gekoppeld door te regristeren en betalen in transIP en in github pages de website te koppelen. </p>
 
+<h3> 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden. </h3>
+<p> ik kan aanpassingen maken door de code te veranderen in VSCodium. Vervolgens sla ik de wijzigingen op en maak ik via Source Control een commit met een beschrijving van de aanpassing. Daarna klik ik op 'Sync Changes' om de wijzigingen naar GitHub te sturen. Via GitHub Pages worden de aanpassingen automatisch gepubliceerd. </p>
 
-11/11/2026:
+<h2>11/11/2026 (interactie) </h2>
 
+<p> In de les hebben we uitleg gekregen over MMD en microinteracties.</p>
+
+<h3> Opdracht wokmenu:</h3>
+<img src="readme-images/schets_menuu.jpg" alt="Schets van mijn menu" width="100">
+<p> ik ben begonnen met een schets te maken van het menu waarbij de drie soorten basis beter onderscheid zijn en het duidelijk is. Een functie toegevoegd om daadwerkelijk ook iets aan vinken en dus kiezen. </p>
+<p> Ook wou ik dat het duidelijk was dat er nog meerdere keuzes gemaakt moesten worden dus bovenin de stappen neergezet. </p>
+
+<h2> 11/11/2026 (schetsen) </h2>
+
+<img src="readme-images/schets_strepen.jpg" alt="schets met strepen" width="100">
+<p> klasikaal hebben we geprobeerd rechte lijnen te trekken uit de lossen pols </p>
+
+<img src="readme-images/schets_vierkant.jpg" alt="schets van vierkanten" width="100">
+<p> Dit hebben we ook geprobeerd bij vierkanten te maken. De inschatting te maken dat elke kant evenlang hoort te zijn. </p>
+
+<img src="readme-images/schets_iphone.jpg" alt="schets iphone" width="100">
+<p> Ook hebben we geprobeerd de ware grote van je eigen iphone te schetsen om te kijken of de grote kan inschatten </p>
+
+<img src="readme-images/schets_app.jpg" alt=" schets van app" width="100" >
+<p> Volgende opdracht was om een bestaande website op je telefoon na te schetsen in mid-fi.
+<p> ik heb woorden die meer opvielen in de app in de schets ook dikker gemaakt. Met een grijze stift heb ik een inner-shadow nagemaakt. Ook heb ik annotaties toegevoegd om de schets zo begrijpelijker te maken. (ikea)
+
+<img src="readme-images/schets_animatie.jpg" alt="sc schets van animatie in menu" width="100">
+<p> Als laatst hebben we geleerd hoe je animaties kan schetsen door middel van een andere kleur en stippellijnen bijvoorbeeld. dat heb ik toegepast in de schets van het menu door pijltjes en een andere. kleur te gebruiken. </p>
+
+<h2> Huiswerk </h2>
+
+<img src="readme-images/cssdiner-1.png" width="100">
+<img src="readme-images/cssdiner-2.png" width="100">
+<p> css diner tot level 14 gemaakt. Ik vond het moeilijk om de verschillende soorten elementen/manieren te onthouden waardoor ik soms terug moest om te kijken hoe het moest. </p>
+
+<h4> HTML Bestand </h4>
+
+<img src="readme-images/HTML.png" width="200">
+<img src="readme-images/HTML1.png" width="200">
+<img src="readme-images/HTML2.png" width="200">
+<p> Het huiswerk was een lelijk HTML bestand maken in codepen. Ik heb de stappen gevolgd in dlo en had geen moeite mee. </p>
+
+<h2> 13/11/2026 (praktische CSS) </h2>
+
+<h3>2. Een lelijke pagina leesbaar maken</h3>
+<p> In de les zijn we verder gegaan met leesbaarder maken van het bestand </p>
+
+<img src="readme-images/bestand1.png" width="200">
+<p> Zoals de regellengte (max-width: 30em;) en het centreren van de tekst (margin: auto;). En het lettertype veranderen.</p>
+
+<img src="readme-images/bestand2.png" width="200">
+<p> De grote van de afbeelding ook aangepast zodat het niet alle ruimte inneemt (display: block;/ max-width: 100%;/ height: auto;)
+</p>
+<p> Ook geleerd hoe je bij een button het pijltje veranderd naar een handje (cursor) </p>
+
+<h3>3. Een lelijke pagina consistent en overzichtelijk maken</h3>
+
+<img src="readme-images/bestand3.png" width="200">
+<p> Ik heb geleerd hoe je de witruimtes aanpast en hoe je die consistent inzet. (--whitespace-m: calc( var(--whitespace-s) * 2 );)</p>
+<p> En hoe je de hierarchie van letters er in kan zetten door bijvoorbeeld powerfunctie. (html { --factor: 2; }
+h1 { font-size: calc( pow( var(--factor), 3 ) * 1rem); }) </p>
+
+<h2> 13/11/2026 (Fonts kleur en effecten) </h2>
+
+<h3> Oefening 1 - font properties </h3>
+
+<img src="readme-images/fonts1.png" width="500">
+
+<p> In de les heb ik geleerd hoe je fonts gebruikt en in CSS zet.
+
+<img src="readme-images/fonts2.png" width="500">
+
+<p> Met de gegeven instructie ging het vrij makkelijk en was duidelijk wat ik moest doen maar het enige wat niet lukte was de eerste letter dikker maken. </p>
+<p> Bleek dus dat mijn bestanden allemaal apart toegevoegd waren en dus niet in een map. Nadat ik dit had aangepast was het allemaal gelukt. </p>
+
+<h3> Oefening 2 - fonts, kleur en effecten </h3>
+
+<img src="readme-images/oefening2.0.png" width="500">
+<p> Als eerst heb ik de Font-face toegevoegd om het lettertype te krijgen. De kleur veranderd naar wit en met text-transform uppercase gebruikt zodat alles hoofdletters was zoals op het voorbeeld.</p>
+
+<p> Ik snapte niet hoe ik die neonglow om de letters moest krijgen dus was even door gegaan naar de volgende. </p>
+
+<img src="readme-images/oefening2.1.png" width="500">
+
+<p> Hierbij had ik weer hetzelfde gedaan voor het lettertype en de kleuren. En de tekst op de goede plek te krijgen. </p>
+
+<img src="readme-images/oefening2.2.png" width="500">
+
+<p> Uiteindelijk was het gelukt om de glow rondom de letters te krijgen maar moest daarvoor wel even spieken. Ik snap wel hoe het werkt maar ik betwijfel nog of ik dit al zelfstandig zou kunnen toepassen. </p>
+<p> Ook voor de onderste poster moest ik even spieken welke waarde je moest gebruiken om de tekst schuin te maken. Dat klonk achteraf logischer dan in het moment. </p>
+
+<img src="readme-images/oefening2.3.png" width="500">
+<p> En als laatst is het gelukt om de schaduw van de letters toe te voegen. </p>
+
+<h3>Oefening 3 - mini-posters</h3>
+<p> Ik heb gekozen om 1 "goed te doen" poster te doen en 1 "wellicht lastiger" poster te doen omdat ik coderen nog moeilijk vind. </p>
+
+<h4> poster 1 </h4>
+<img src="readme-images/CMYK1.png" width="500">
+<p> Ik ben begonnen met de font-face toe te passen en de basis van de letters goed te hebben.</p>
+
+<img src="readme-images/CMYK2.png" width="500">
+<p> Daarna ging ik proberen de verschillende schaduwen bij de letters toe te voegen maar het werkte niet. </p>
+
+<img src="readme-images/CMYK3.png" width="500">
+<p> Ik ben met de waardes gaan experimenteren en kwam zo op steeds meer resultaat. Bij mijn eerste poging had ik bijvoorbeeld ook te veel waardes achter de kleur staan waardoor het niet werkte </p>
+
+<img src="readme-images/CMYK4.png" width="500">
+<p>Zo ben ik uiteindelijk op dit gekomen waarbij de kleuren te zien zijn. </p>
+
+<h4> poster 2 </h4>
+
+<img src="readme-images/puff1.png" width="500">
+<p> Voor de tweede poster ben ik weer met de basis begonnen zoals lettertype en kleur. Door de uitleg in de les wist ik wat ik moest gebruiken om die overgang te krijgen met geel, ik snapte alleen niet waarom het niet over het hele blok was. </p>
+
+<img src="readme-images/puff2.png" width="500">
+<p> Ik ben doorgegaan met omlijning van de letters. Wat opzich wel was gelukt met het heeft rare uitschieters. Ik dacht eerst dat het misschien beter zou zijn als de stroke dikker zou zijn maar dat hielp niet dus geen idee. </p>
+
+<img src="readme-images/puff3.png" width="500">
+<p> Het is gelukt de achtergrond goed te krijgen. Het probleem was dat ik het onder h2 had gezet dus alleen rond de letters kwam en niet het blok. </p>
+
+<h2>Huiswerk</h2>
+<h4>Oefening 4 - transitions (CSS fonts kleuren en elementen) </h4>
+
+[Bekijk mijn schermopname](./readme-images/oefening4.0.mov)
+
+<p>
