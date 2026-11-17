@@ -202,6 +202,18 @@ Het kerstgevoel wil ik overbrengen door bijvoorbeeld: kleuren, bewegende kerstve
 <img src="readme-images/ontwerponderzoek.png" alt="document onderzoek kerstmis" >
 <p> Voordat ik begin aan afbeeldingen en inspiratie te zoeken ben ik mij eerst gaan verdiepen in het onderwerp. <p>
 
+<p> Ik ben 5 collages gaan maken met elk een ander soort kerstmis </p>
+
+<img src="oefeningen/presentatie/images/buitenkerst.png" width="300">
+
+<img src="oefeningen/presentatie/images/lightkerst.png" width="300">
+
+<img src="oefeningen/presentatie/images/darkkerst.png" width="300">
+
+<img src="oefeningen/presentatie/images/nostalgiekerst.png" width="300">
+
+<img src="oefeningen/presentatie/images/crazykerst.png" width="300">
+
 <h3> Checkout </h3>
 <li>Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.</li>
 <h5> Een digitale garden is een persoonlijke website waar je ideeen en experimenten verzamelt. De website blijft groeien en veranderen. Verschil met een reguliere website is dat het afgerond is en het eindproduct is terwijl een digitale garden niet af hoeft te zijn. </h5>
@@ -211,3 +223,20 @@ Het kerstgevoel wil ik overbrengen door bijvoorbeeld: kleuren, bewegende kerstve
 
 <li> Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden. </li>
 <h5> Voor mijn digitale garden wil ik het onderwerp kerst doen omdat dat mijn favoriete feestdag is en elk jaar naar uit kijk. Ik wil een gezellige, cozy sfeer creeeren en door middel van animaties, kleuren en verrassende effecten dit proberen te maken. </h5>
+
+<h2> Dinsdag: Practicum Light & Dark theme (17/11/2026) </h2>
+
+<h4> Oefening 1 - Light & Dark 101 </h4>
+<p> Ik heb tijdens het practicum geleerd hoe je costum properties insteld om de pagina kleur te geven en hoe je de light-dark functie gebruikt zodat de kleur mee veranderd. </p>
+<p> Ook hebben we geleerd hoe je van light-dark mode kan switchen door middel van het aan te klikken in het form (met HTML:has([value:light])checked....) </p>
+<p> verder hebben we ook een linear-gradient gebruikt, en heb ik geleerd dat je de background-color dan moet veranderen naar background-images in je body om het te laten werken. </p>
+
+ <img src="readme-images/practicum1.0.png" alt="screenshot css" width="400" >
+
+ <img src="readme-images/practicum1.1.png" alt="screenshot css" width="400" >
+
+<h4> Oefening 2 - Twee thema's </h4>
+
+<h4>Light en dark iconen</h4>
+
+<h4> Oefening 3 - Responsive afbeelding </h4>
