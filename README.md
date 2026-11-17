@@ -189,4 +189,14 @@ h1 { font-size: calc( pow( var(--factor), 3 ) * 1rem); }) </p>
 <li> Jouw content </li>
 <li> Op welke manier </li>
 
-<h4> oefening 3 </h4>
+<h4> Oefening 3 </h4>
+
+<h3> Checkout </h3>
+<li>Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.</li>
+<h5> Een digitale garden is een persoonlijke website waar je ideeen en experimenten verzamelt. De website blijft groeien en veranderen. Verschil met een reguliere website is dat het afgerond is en het eindproduct is terwijl een digitale garden niet af hoeft te zijn. </h5>
+
+<li> Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren. </li>
+<h5> Een website maakt het webby als het creatief en verrassend is. Een website met animaties (bewegingen), hovers en typografie inspireren mij omdat het de bezoeker actiever betrekt.</h5>
+
+<li> Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden. </li>
+<h5> Voor mijn digitale garden wil ik het onderwerp kerst doen omdat dat mijn favoriete feestdag is en elk jaar naar uit kijk. Ik wil een gezellige, cozy sfeer creeeren en door middel van animaties, kleuren en verrassende effecten dit proberen te maken.
