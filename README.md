@@ -184,10 +184,19 @@ h1 { font-size: calc( pow( var(--factor), 3 ) * 1rem); }) </p>
 <h4> Oefening 1 (rangschikken) </h4>
 
 <h4> Oefening 2 (eigen verkenning) </h4>
-<li> De inventarisatie:  </li> 
-<li> De toon </li>
-<li> Jouw content </li>
-<li> Op welke manier </li>
+
+<li> <h5> De inventarisatie: </h5> 
+Zelf wil ik een interactieve digitale garden maken, dat het vermakelijk is er doorheen te gaan. Ook wil ik dat het meteen duidelijk is wat het onderwerp is. In andere digitale gardens is eigenlijk bijna alles wat ik zag dat ik nog niet kan. Wat mij hij leuk lijkt is een achtergrond met beweging erin of een icoontje bij je pijltjes als je ergens overheen hovert.   </li>
+
+<li> <h5> De toon:</h5> 
+Ik wil schrijven over het nostalgische warme gevoel dat kerst mij geeft. Wat ik zo leuk vind aan kerst is de gezelligheid: kerstboom/ lampjes/ chocomelk/ muziek. Het is periode waar mensen bij elkaar komen en herinnerringen maken en dat wil ik overbrengen in mijn digitale garden.
+De toon wordt warm, gezellig en persoonlijk. Mijn doel is om de bezoeker datzelfde nostalgische gevoel te laten ervaren door beeld, muziek, animaties en interactieve elementen. </li>
+
+<li> <h5> Jouw content: </h5> 
+Ik wil misschien gebruik maken van bestaande kerstafbeeldingen en muziek om de juiste sfeer te creeeren. Hierbij moet ik wel rekening houden met autheursrechten en of rechtvrije dingen te gebruiken. Dit wil ik combineren met mijn eigen teksten en ontwerpen om de garden persoonlijk te maken en mijn kerstgevoel over te brengen.</li>
+
+<li> <h5> Op welke manier </h5> 
+Het kerstgevoel wil ik overbrengen door bijvoorbeeld: kleuren, bewegende kerstverlichting, kerstmuziek, sneeuw animatie. Ook interactieve elementen bijvoorbeeld als je ergens op klikt elementen tevoorschijn komen. Zo wil ik het zichtbaar maken maar ook met geluid ervaarbaar maken. </li>
 
 <h4> Oefening 3 </h4>
 
@@ -199,4 +208,4 @@ h1 { font-size: calc( pow( var(--factor), 3 ) * 1rem); }) </p>
 <h5> Een website maakt het webby als het creatief en verrassend is. Een website met animaties (bewegingen), hovers en typografie inspireren mij omdat het de bezoeker actiever betrekt.</h5>
 
 <li> Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden. </li>
-<h5> Voor mijn digitale garden wil ik het onderwerp kerst doen omdat dat mijn favoriete feestdag is en elk jaar naar uit kijk. Ik wil een gezellige, cozy sfeer creeeren en door middel van animaties, kleuren en verrassende effecten dit proberen te maken.
+<h5> Voor mijn digitale garden wil ik het onderwerp kerst doen omdat dat mijn favoriete feestdag is en elk jaar naar uit kijk. Ik wil een gezellige, cozy sfeer creeeren en door middel van animaties, kleuren en verrassende effecten dit proberen te maken. </h5>
