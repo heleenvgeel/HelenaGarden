@@ -238,5 +238,9 @@ Het kerstgevoel wil ik overbrengen door bijvoorbeeld: kleuren, bewegende kerstve
 <h4> Oefening 2 - Twee thema's </h4>
 
 <h4>Light en dark iconen</h4>
+<p> Ik heb geleerd dat de SVG code altijd in je HTML moet staan voor het icoon. Daarna kun je in css ook de light-dark theme aanpassen.
+
+<img src="readme-images/practicum1.2.png" alt="screenshot css" width="400" >
 
 <h4> Oefening 3 - Responsive afbeelding </h4>
+<img src="readme-images/practicum1.3.png" alt="screenshot css" width="400" >
