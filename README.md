@@ -199,6 +199,8 @@ Ik wil misschien gebruik maken van bestaande kerstafbeeldingen en muziek om de j
 Het kerstgevoel wil ik overbrengen door bijvoorbeeld: kleuren, bewegende kerstverlichting, kerstmuziek, sneeuw animatie. Ook interactieve elementen bijvoorbeeld als je ergens op klikt elementen tevoorschijn komen. Zo wil ik het zichtbaar maken maar ook met geluid ervaarbaar maken. </li>
 
 <h4> Oefening 3 </h4>
+<img src="readme-images/ontwerponderzoek.png" alt="document onderzoek kerstmis" >
+<p> Voordat ik begin aan afbeeldingen en inspiratie te zoeken ben ik mij eerst gaan verdiepen in het onderwerp. <p>
 
 <h3> Checkout </h3>
 <li>Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.</li>
