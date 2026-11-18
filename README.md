@@ -248,6 +248,7 @@ Het kerstgevoel wil ik overbrengen door bijvoorbeeld: kleuren, bewegende kerstve
 <h2> woensdag (18/11/2026) </h2>
 
 <h3> Presenteren eigen onderwerp <h3>
+
 <h4>vragenlijst</h4>
 <h5>Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​</h5>
 
@@ -261,3 +262,9 @@ Het kerstgevoel wil ik overbrengen door bijvoorbeeld: kleuren, bewegende kerstve
 <h5> Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​ </h5>
 
 <p> Warm, gezellig, cozy </p>
+
+<h3>Visual research</h3>
+
+<h4>Opdracht 5 – een sfeer- of kernwoord als uitgangspunt </h4>
+<li> Mijn onderwerp voor de Digital Garden is: kerstmist </li>
+<li> Mijn sfeer- of kernwoord(en) is/zijn: Warm, gezellig, liefdevol, veilig, nostalgisch, feestelijk, cozy </li>
