@@ -244,3 +244,20 @@ Het kerstgevoel wil ik overbrengen door bijvoorbeeld: kleuren, bewegende kerstve
 
 <h4> Oefening 3 - Responsive afbeelding </h4>
 <img src="readme-images/practicum1.3.png" alt="screenshot css" width="400" >
+
+<h2> woensdag (18/11/2026) </h2>
+
+<h3> Presenteren eigen onderwerp <h3>
+<h4>vragenlijst</h4>
+<h5>Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​</h5>
+
+<p> Dat ik de bezoeker het gevoel wil overbrengen, hoe kerst voor mij voelt. De warmte en gezelligheid die kerst met zich meebrengt </p>
+
+<h5> Heeft 'de ander' een aanvulling op je onderwerp?​ </h5>
+
+<p> begrijpbaar houden voor gebruiker - fe </p>
+<p> In de presentatie van fe had ze het over persoonlijke foto's toe te voegen maar dat eigenlijk niet zo openbaar wilt hebben en daar was ik het mee eens. Haar idee was om de foto's dan te transformeren naar een illustratie. </p>
+
+<h5> Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​ </h5>
+
+<p> Warm, gezellig, cozy </p>
