@@ -316,3 +316,9 @@ Zet de antwoorden in je Readme.</li>
 <h3> HTML structuur </h3>
 
 <h2> Practicum: mooie kleuren en gradients (woensdag 18/11/2026) </h2>
+
+<h3> oefening 1 </h3>
+<img src="readme-images/oefening1grid.png" alt=" screenshots oefeningen grid " width="500">
+<p> Ik ben bij oefening 1 zelfstandig tot sommetje 8 gekomen. Tot aan die oefening kon ik het begrijpen maar daarna merkte ik aan mijzelf dat ik het niet meer echt begon te snappen en meer aan het spieken was. Daarom ben ik de aanbevolen video's gaan kijken die in dlo staan. </p>
+
+<h3> oefening 2 </h3>
