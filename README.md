@@ -300,3 +300,10 @@ Zet de antwoorden in je Readme.</li>
 
 <ul> 3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. </ul>
 <h5> Of het idee waarbij kerst elementen hangen voor een achtergrond of het idee om iets met de vorm te doen wat lijkt op lint of lampjes. </h5>
+
+<h2> Huiswerk </h2>
+
+<h3> 5 schetsen – mobile first </h3>
+<img src="readme-images/5mobilephoneschetsen.png" alt="55 schetsen van mobile phone ideeen" width="500">
+
+<p> Ik heb tijdens het schetsen gelet op de randvoorwaarden zoals realistsiche verhouding, annotaties ect. Ik heb schaduwen toegevoegd met een stift op de plekken waar dat relevant was.</p>
