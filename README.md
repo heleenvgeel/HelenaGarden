@@ -315,6 +315,19 @@ Zet de antwoorden in je Readme.</li>
 
 <h3> HTML structuur </h3>
 
+<h2>  Practicum mooie kleuren en gradients (woensdag 18/11/2026)
+
+<h3> Oefening 1 </h3>
+<img src="readme-images/gradient1.png" alt=" screenshot gradient oefening " width="500">
+<p> De verschillende gradients zijn gelukt behalve sommetje 10, en snap ook niet hoezo niet. </p>
+
+<h3> Oefening 2 </h3>
+<img src="readme-images/gradient2.png" alt=" screenshot gradient oefening " width="500">
+<p> Het is gelukt om twee vlaggen te maken, het was wel heel moeilijk om zonder aanwijzingen te beginnen. En bij oefening 1 waren het overgangen dus ik moest uitvogelen hoe het dan werkt als je geen overgang wou. </p>
+
+<h3> Oefening 3 </h3>
+?
+
 <h2> Practicum Grid 101 + Media queries 101 (vrijdag 20/11/2026) </h2>
 
 <h3> Oefening 1 </h3>
