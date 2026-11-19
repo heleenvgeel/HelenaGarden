@@ -175,7 +175,7 @@ h1 { font-size: calc( pow( var(--factor), 3 ) * 1rem); }) </p>
 <img src="readme-images/cssinteractie4.png" width="400">
 <p> bij de interactie heb ik geleerd wat een focus is en hoe je die toevoegd in de code. Voor mensen die kleurblind zijn een dubbele rand toegevoegd waar ik normaal niet aan zou denken. </p>
 
-<h2> 16/11/2026 </h2>
+<h2> 16/11/2026 - Sprint 1</h2>
 <h3> Wat we in de les hebben gedaan </h3>
 <p> scanbaar lezen oefening </p>
 
@@ -263,8 +263,37 @@ Het kerstgevoel wil ik overbrengen door bijvoorbeeld: kleuren, bewegende kerstve
 
 <p> Warm, gezellig, cozy </p>
 
-<h3>Visual research</h3>
+<h2>Visual research</h2>
 
 <h4>Opdracht 5 – een sfeer- of kernwoord als uitgangspunt </h4>
 <li> Mijn onderwerp voor de Digital Garden is: kerstmist </li>
-<li> Mijn sfeer- of kernwoord(en) is/zijn: Warm, gezellig, liefdevol, veilig, nostalgisch, feestelijk, cozy </li>
+<li> Mijn sfeer- of kernwoord(en) is/zijn:Warm, gezellig, liefdevol, veilig, nostalgisch, feestelijk, cozy </li>
+
+<img src="readme-images/visualresearch.png" alt=" visual research opdarchten" width="500">
+
+<h4>Crazy 8 </h4>
+
+<h4> Duo vragen </h4>
+<li> Wat zijn de beste ideeën en waarom? ... en waarom de andere minder? </li>
+<p> 1e, 2e en 7e crazy 8 schets vond mijn partner het beste omdat ze daaruit mijn sfeerwoorden het meeste kon halen en kerst meteen zichtbaar was. 
+Justus vond de schetsen met de sierlijke lijnen (lint) een goede en zag meteen beweging erin. </p>
+
+<li> Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar? </li>
+<p> um </p>
+
+<li> Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond? </li>
+<p> uhm </p>
+
+<li> Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je? </li>
+<p> uhm </p>
+
+<li> Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?
+Zet de antwoorden in je Readme.</li>
+<p> uhm </p>
+
+<h3> Checkout </h3>
+<ul> 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt </ul>
+
+<ul> 2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz). </ul>
+
+<ul> 3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. </ul>
