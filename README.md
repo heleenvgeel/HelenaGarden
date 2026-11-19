@@ -270,6 +270,7 @@ Het kerstgevoel wil ik overbrengen door bijvoorbeeld: kleuren, bewegende kerstve
 <li> Mijn sfeer- of kernwoord(en) is/zijn:Warm, gezellig, liefdevol, veilig, nostalgisch, feestelijk, cozy </li>
 
 <img src="readme-images/visualresearch.png" alt=" visual research opdarchten" width="500">
+<img src="readme-images/visualresearchstap3.png" alt=" visual research opdarchten" width="500">
 
 <h4>Crazy 8 </h4>
 
@@ -307,3 +308,11 @@ Zet de antwoorden in je Readme.</li>
 <img src="readme-images/5mobilephoneschetsen.png" alt="55 schetsen van mobile phone ideeen" width="500">
 
 <p> Ik heb tijdens het schetsen gelet op de randvoorwaarden zoals realistsiche verhouding, annotaties ect. Ik heb schaduwen toegevoegd met een stift op de plekken waar dat relevant was.</p>
+
+<h3> Mini styleguide </h3>
+
+<img src="readme-images/ministyleguide1.png" alt=" mini styleguide " width="500">
+
+<h3> HTML structuur </h3>
+
+<h2> Practicum: mooie kleuren en gradients (woensdag 18/11/2026) </h2>
