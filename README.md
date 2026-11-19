@@ -315,7 +315,7 @@ Zet de antwoorden in je Readme.</li>
 
 <h3> HTML structuur </h3>
 
-<h2> Practicum: mooie kleuren en gradients (woensdag 18/11/2026) </h2>
+<h2> Practicum Grid 101 + Media queries 101 (vrijdag 20/11/2026) </h2>
 
 <h3> Oefening 1 </h3>
 <img src="readme-images/oefening1grid.png" alt=" screenshots oefeningen grid " width="500">
