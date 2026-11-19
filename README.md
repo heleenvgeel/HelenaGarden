@@ -293,7 +293,10 @@ Zet de antwoorden in je Readme.</li>
 
 <h3> Checkout </h3>
 <ul> 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt </ul>
+<h5> Je begint met directe beelden te verzamelen daarna ga je abstracte beelden verzamelen en als laatst ga je de uitgangspunten verzamelen. Hiermee werk je naar een eigen, origineel concept waarbij je niet bestaande beelden overneemt maar echt originele persoonlijke ideeen bedenkt. </h5>
 
 <ul> 2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz). </ul>
+<h5> mijn digitale garden gaat over kerst en in het specifiek het gevoel willen overbrengen dat ik bij kerst voel. Dit wil ik gaan doen met beelden, geluiden, animaties en een beetje tekst.</h5>
 
 <ul> 3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. </ul>
+<h5> Of het idee waarbij kerst elementen hangen voor een achtergrond of het idee om iets met de vorm te doen wat lijkt op lint of lampjes. </h5>
