@@ -328,6 +328,24 @@ Zet de antwoorden in je Readme.</li>
 <h3> Oefening 3 </h3>
 ?
 
+<h2> Vrijdag (20/11/2026) </h2>
+
+<h5>zijn je schetsen Webby genoeg? Beoordeel o.b.v. het invulvel. </h5>
+<p>Ja</p>
+<img src="readme-images/webbyschetsen.png" alt="webby formulier" width="500">
+
+<h5> Je hebt je opzet in html gemaakt. Bespreek met elkaar hoe schermontwerp kunt opbouwen/realiseren in html en css. </h5>
+<p> </p>
+
+<h5> Schrijf vragen of moeilijke onderdelen op en vraag advies aan een docent/student assistent.</h5>
+<p> Elementen verspreid over de pagina en dan soort touwtje die dan op en neer kan gaan of een lint dat dan zou kunnen bewegen. </p>
+
+<h5> Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css </h5>
+<p> </p>
+
+<h3> Checkout </h3>
+<h5> Welke feedback heb je gehad? </h5>
+
 <h2> Practicum Grid 101 + Media queries 101 (vrijdag 20/11/2026) </h2>
 
 <h3> Oefening 1 </h3>
