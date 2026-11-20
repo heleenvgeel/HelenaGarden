@@ -313,8 +313,6 @@ Zet de antwoorden in je Readme.</li>
 
 <img src="readme-images/ministyleguide1.png" alt=" mini styleguide " width="500">
 
-<h3> HTML structuur </h3>
-
 <h2>  Practicum mooie kleuren en gradients (woensdag 18/11/2026)
 
 <h3> Oefening 1 </h3>
@@ -345,6 +343,10 @@ Zet de antwoorden in je Readme.</li>
 
 <h3> Checkout </h3>
 <h5> Welke feedback heb je gehad? </h5>
+<p> Ik had besproken door te willen gaan met de schets waarbij kerstornamenten hangen en klikbaar zijn. De docenten gaven aan het idee met de het lint door het beeld beter te vinden omdat het abstracter is en proces daarvan interessant vinden. </p>
+<p> Ik had daarvoor niet gekozen omdat op technische gebied ik dat te moeilijk vond. Maar ga het voor nu dan gewoon proberen en als het echt niet lukt kan ik altijd overstappen naar het andere idee </p>
+
+<p> Verder was de vraag nog hoe light en dark mode er dan uitzien aangezien de "light mode" al vrij donker is. Nu was een optie om de dark mode dan extreem donker te maken. Dit vond ik een heel leuk idee en misschien zelfs dat alleen jou pijltje een soort zaklamp is en zo door de website kan kijken.</p>
 
 <h2> Practicum Grid 101 + Media queries 101 (vrijdag 20/11/2026) </h2>
 
