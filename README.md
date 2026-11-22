@@ -341,8 +341,8 @@ Zet de antwoorden in je Readme.</li>
 
 <p> Ik heb een opzet gemaakt waarbij er klikbare elementen zijn die je vervolgens naar andere pagina's zou kunnen leiden. </p>
 
-<img src="readme-images/htmlopzet1.png" alt="light mode" width="300">
-<img src="readme-images/htmlopzet2.png" alt="dark mode" width="300>
+<img src="readme-images/htmlopzet1.png" alt="light mode" width="400">
+<img src="readme-images/htmlopzet2.png" alt="dark mode" width="400>
 
 <p> Daarna heb ik ook nog de light en dark mode alvast toegevoegd in CSS. </p>
 
