@@ -328,18 +328,15 @@ Zet de antwoorden in je Readme.</li>
 
 <h2> Vrijdag (20/11/2026) </h2>
 
+<h3> Opdracht 12 – Bespreken huiswerk </h3>
 <h5>zijn je schetsen Webby genoeg? Beoordeel o.b.v. het invulvel. </h5>
 <p>Ja</p>
 <img src="readme-images/webbyschetsen.png" alt="webby formulier" width="500">
 
-<h5> Je hebt je opzet in html gemaakt. Bespreek met elkaar hoe schermontwerp kunt opbouwen/realiseren in html en css. </h5>
-<p> </p>
+<h3> Opdracht - 13 Van schets naar HTML </h3>
+<img src="readme-images/htmlschets.png" alt="schets met html" width="500">
 
-<h5> Schrijf vragen of moeilijke onderdelen op en vraag advies aan een docent/student assistent.</h5>
-<p> Elementen verspreid over de pagina en dan soort touwtje die dan op en neer kan gaan of een lint dat dan zou kunnen bewegen. </p>
-
-<h5> Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css </h5>
-<p> </p>
+<h3> Opdracht 14 - eerste html opzet </h3>
 
 <h3> Checkout </h3>
 <h5> Welke feedback heb je gehad? </h5>
@@ -363,5 +360,3 @@ Zet de antwoorden in je Readme.</li>
 <img src="readme-images/oefening3grid.png" alt=" screenshots oefeningen grid " width="400">
 
 <p> Bij deze oefening ging het al een stuk makkelijker omdat ik begreep hoe ik dingen kon verplaatsen en maken door de vorige oefeningen. Ik heb ik nu geleerd wat media query inhoud en wat het doet. </p>
-
-<h3> Oefening 4 </h3>
