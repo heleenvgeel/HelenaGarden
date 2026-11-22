@@ -337,6 +337,14 @@ Zet de antwoorden in je Readme.</li>
 <img src="readme-images/htmlschets.png" alt="schets met html" width="500">
 
 <h3> Opdracht 14 - eerste html opzet </h3>
+<img src="readme-images/htmlopzet.png" alt="begin van html opzet" width="500">
+
+<p> Ik heb een opzet gemaakt waarbij er klikbare elementen zijn die je vervolgens naar andere pagina's zou kunnen leiden. </p>
+
+<img src="readme-images/htmlopzet1.png" alt="light mode" width="300">
+<img src="readme-images/htmlopzet2.png" alt="dark mode" width="300>
+
+<p> Daarna heb ik ook nog de light en dark mode alvast toegevoegd in CSS. </p>
 
 <h3> Checkout </h3>
 <h5> Welke feedback heb je gehad? </h5>
