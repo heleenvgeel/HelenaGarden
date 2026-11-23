@@ -375,3 +375,13 @@ Zet de antwoorden in je Readme.</li>
 <img src="readme-images/Bi-weekly Geek 1.png" alt="bi-weekly geek 1 opdracht" width="300">
 
 <img src="readme-images/Bi-weekly1.png" alt="bi-weekly geek 1 opdracht" width="300">
+
+<h3> Digitale Garden </h3>
+<img src="readme-images/letters.png" alt="screenshot van lettertype" width="500">
+
+<p> Ik had eerst bedacht het lettertype "krul" te gebruiken maar omdat je die niet gratis kan downloaden in adobe fonts heb ik een vergelijkbaar lettertype gevonden in google fonts. Verder heb ik ook een andere lettertype gekozen voor kopjes tekst zodat er niet alleen onderscheid wordt gemaakt met lettergrote maar ook lettertype. </p>
+
+<p> Ik wist eerst niet hoe ik de titel moest onderscheiden van het tekstje er onder. Met behulp van een docent heb ik geleerd dat je het in css kan aangeven als "header p" hiermee zou dan alleen de p veranderen die in de header staan. </p>
+
+<img src="readme-images/lineheight.png" alt="screenshot van lettertype" width="500">
+<p> Het lukte mij niet om de p tekst meer tegen de h1 tekst te krijgen met behulp van een docent heb ik geleerd dat het lag aan de margin van de teksten en dat ik daarna met "line-heigt" de teksten nog dichter bij elkaar kon zetten. </p>
