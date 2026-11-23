@@ -3,14 +3,12 @@
 @font-face {
   font-family: "Christmasletters";
   src: url(../fonts/Mea_Culpa/MeaCulpa-Regular.ttf);
-  font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Helenaletter";
   src: url(../fonts/Oleo_Script_Swash_Caps/OleoScriptSwashCaps-Regular.ttf);
-  font-weight: 500;
   font-style: normal;
 }
 
@@ -21,7 +19,13 @@ html {
 
   --background: light-dark(#8b0000, #570000);
   --color: light-dark(white, Lavender);
+  
+  --whitespace: 1rem;
+
 }
+
+
+
 
 *,
 *::after,
@@ -42,9 +46,30 @@ img {
 
 header{
   font-family: Christmasletters;
+  text-align: center;
+  font-size: 4em;
+  
+  
 }
 
 
+p {
+  color:aquamarine;
+}
+
+header p {
+  color:antiquewhite;
+  font-size: 0.5em;
+  font-family: Helenaletter;
+  margin:0;
+}
+
+
+nav a {
+  color:white;
+  font-size: 0.5em;
+  font-family: Helenaletter;
+}
 
 
 
@@ -53,6 +78,9 @@ body {
   background-color: var(--background);
   color: var(--color);
   font-family:Helenaletter;
+  
+
+ 
 }"
  
 
@@ -60,4 +88,11 @@ body {
 footer {
 }
 
+ul{
+  list-style-type: none;
+}
 
+h1{
+  margin:0;
+  line-height: 1em;
+}
