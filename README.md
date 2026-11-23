@@ -372,6 +372,6 @@ Zet de antwoorden in je Readme.</li>
 <h2> Maandag 23/11/2026 </h2>
 
 <h3> Bi-weekly geek 1 </h3>
-<img src="readme-images/Bi-weekly Geek 1.png" alt="bi-weekly geek 1 opdracht" width="500">
+<img src="readme-images/Bi-weekly Geek 1.png" alt="bi-weekly geek 1 opdracht" width="300">
 
-<img src="readme-images/Bi-weekly1.png" alt="bi-weekly geek 1 opdracht" width="500">
+<img src="readme-images/Bi-weekly1.png" alt="bi-weekly geek 1 opdracht" width="300">
