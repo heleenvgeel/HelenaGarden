@@ -1,5 +1,3 @@
-
-
 @font-face {
   font-family: "Christmasletters";
   src: url(../fonts/Mea_Culpa/MeaCulpa-Regular.ttf);
@@ -12,20 +10,14 @@
   font-style: normal;
 }
 
-
-
 html {
   color-scheme: light dark;
 
   --background: light-dark(#8b0000, #570000);
   --color: light-dark(white, Lavender);
-  
+
   --whitespace: 1rem;
-
 }
-
-
-
 
 *,
 *::after,
@@ -38,61 +30,48 @@ main {
 }
 
 img {
-  max-width: 100%;
+  max-width: 55%;
 }
 
-
-
-
-header{
+header {
   font-family: Christmasletters;
   text-align: center;
   font-size: 4em;
-  
-  
 }
 
-
 p {
-  color:aquamarine;
+  color: gold;
 }
 
 header p {
-  color:antiquewhite;
+  color: chocolate;
   font-size: 0.5em;
   font-family: Helenaletter;
-  margin:0;
+  margin: 0;
 }
-
 
 nav a {
-  color:white;
+  color: white;
   font-size: 0.5em;
   font-family: Helenaletter;
 }
 
-
-
 body {
-
   background-color: var(--background);
   color: var(--color);
-  font-family:Helenaletter;
-  
-
- 
-}"
- 
-
+  font-family: Helenaletter;
+}
 
 footer {
 }
 
-ul{
-  list-style-type: none;
+ul {
+  list-style-type: circle;
+  text-align: left;
+  font-size: 0.5em;
 }
 
-h1{
-  margin:0;
+h1 {
+  margin: 0;
   line-height: 1em;
 }
