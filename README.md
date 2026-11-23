@@ -368,3 +368,10 @@ Zet de antwoorden in je Readme.</li>
 <img src="readme-images/oefening3grid.png" alt=" screenshots oefeningen grid " width="400">
 
 <p> Bij deze oefening ging het al een stuk makkelijker omdat ik begreep hoe ik dingen kon verplaatsen en maken door de vorige oefeningen. Ik heb ik nu geleerd wat media query inhoud en wat het doet. </p>
+
+<h2> Maandag 23/11/2026 </h2>
+
+<h3> Bi-weekly geek 1 </h3>
+<img src="readme-images/Bi-weekly Geek 1.png" alt="bi-weekly geek 1 opdracht" width="500">
+
+<img src="readme-images/Bi-weekly1.png" alt="bi-weekly geek 1 opdracht" width="500">

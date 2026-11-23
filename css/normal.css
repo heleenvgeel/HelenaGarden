@@ -26,6 +26,10 @@ html {
   box-sizing: border-box;
 }
 
+main {
+  max-width: 30em;
+}
+
 img {
   max-width: 100%;
 }
