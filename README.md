@@ -438,4 +438,8 @@ Zet de antwoorden in je Readme.</li>
 <img src="readme-images/21schets.png" alt="schetsen van iphone ontwerpen" width="300">
 <p> ik zie dat hanaa had bedacht de kerst elementen heel groot te maken maar ik zou het leuker vinden als er dan meer elementen bij zouden komen, omdat er dan meer gebeurd op de pagina en naar mijn idee meer in balans is. </p>
 
-<img src="readme-images/gradient.png" alt="sreenshot van de stappen naar gecodeerde ster" width="300">
+<h3> Digitale Garden </h3>
+<img src="readme-images/gradient.png" alt="sreenshot van de stappen naar gecodeerde ster" width="600">
+<p> Charley gaf mij het idee hoe ik een realistischer ster zou kunnen maken, namelijk in illustrater de ster lijnen maken en door middel van een gradient licht gevende gloed creeren. </p>
+<p> Met behulp van Justus is het gelukt om dit effect te creeren in code. Ik merk dat ik wel nog veel moeite heb waar ik precies bepaalde code moet neerzetten. </p>
+<p> Ik heb zelf geprobeerd de omlijning niet zichtbaar te maken maar het is uiteindelijk gelukt met behulp van een studentenassistent. Door middel van de achtergrond transparent te maken en de procenten aan te passen van de gradient is het gelukt. </p>
