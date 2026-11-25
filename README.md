@@ -386,6 +386,9 @@ Zet de antwoorden in je Readme.</li>
 <img src="readme-images/lineheight.png" alt="screenshot van lettertype" width="500">
 <p> Het lukte mij niet om de p tekst meer tegen de h1 tekst te krijgen met behulp van een docent heb ik geleerd dat het lag aan de margin van de teksten en dat ik daarna met "line-heigt" de teksten nog dichter bij elkaar kon zetten. </p>
 
+<img src="readme-images/screenshot.png" alt="screenshot van lettertype" width="500">
+<p> Verder heb ik illustrater tijdelijke sterretjes gemaakt omdat ik niet weet hoe ik een realistischer ster kan maken. </p>
+
 <h3> Checkout Maandag 23/11/2026 </h3>
 
 <li> Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? </li>
@@ -434,3 +437,5 @@ Zet de antwoorden in je Readme.</li>
 <h3> Opdracht 21 - Verhoudingen & Grid </h3>
 <img src="readme-images/21schets.png" alt="schetsen van iphone ontwerpen" width="300">
 <p> ik zie dat hanaa had bedacht de kerst elementen heel groot te maken maar ik zou het leuker vinden als er dan meer elementen bij zouden komen, omdat er dan meer gebeurd op de pagina en naar mijn idee meer in balans is. </p>
+
+<img src="readme-images/gradient.png" alt="sreenshot van de stappen naar gecodeerde ster" width="300">
