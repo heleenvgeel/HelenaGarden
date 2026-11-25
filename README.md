@@ -423,3 +423,12 @@ Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen 
 <li> vorm/ restvorm </li>
 <li> closure </li>
 <li> ingevulde hiaat </li>
+
+<h3> Opdracht 18 – Contrast </h3>
+<img src="readme-images/18contrast.png" alt="schetsen van iphone ontwerpen" width="300">
+
+<h3> Opdracht 19/20 - witruimte / hierarchie </h3>
+<img src="readme-images/19witruimte.png" alt="schetsen van iphone ontwerpen" width="300">
+
+<h3> Opdracht 21 - Verhoudingen & Grid </h3>
+<img src="readme-images/21schets.png" alt="schetsen van iphone ontwerpen" width="300">
