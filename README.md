@@ -385,3 +385,25 @@ Zet de antwoorden in je Readme.</li>
 
 <img src="readme-images/lineheight.png" alt="screenshot van lettertype" width="500">
 <p> Het lukte mij niet om de p tekst meer tegen de h1 tekst te krijgen met behulp van een docent heb ik geleerd dat het lag aan de margin van de teksten en dat ik daarna met "line-heigt" de teksten nog dichter bij elkaar kon zetten. </p>
+
+<h3> Checkout Maandag 23/11/2026 </h3>
+
+<li> Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? </li>
+<p> Een website wordt leijk wanneer teksten helemaal doorlopen en daardoor niet prettig leesbaar zijn. Dat los je op door in CSS aan te geven met "max-width: 30em" waardoor de teksten bij 30em stoppen. </p>
+
+<li> Vertel welke volgende stap je neemt om je website responsive te maken. </li>
+<p>. </p>
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+
+<h2> Practicum: Practicum Everything images </h2>
+
+<img src="readme-images/practicumimg.png" alt="screenshot van oefening met foto's" width="300">
+
+<img src="readme-images/practicumimg1.png" alt="screenshot van oefening met foto's" width="300">
+
+<img src="readme-images/practicumimg2.png" alt="screenshot van oefening met foto's" width="300">
+
+<img src="readme-images/practicumimg3.png" alt="screenshot van oefening met foto's" width="300">
+
+<h2> Woensdag 25/11/2026 </h2>
