@@ -424,9 +424,13 @@ Zet de antwoorden in je Readme.</li>
 
 <h3> Opdracht 18 – Contrast </h3>
 <img src="readme-images/18contrast.png" alt="schetsen van iphone ontwerpen" width="300">
+<p> Vind het heel leuk idee om verschillende kerst elementen gebruiken in plaats van alleen sterren dus misschien neem ik dat mee in mijn ontwerp. </p>
 
 <h3> Opdracht 19/20 - witruimte / hierarchie </h3>
 <img src="readme-images/19witruimte.png" alt="schetsen van iphone ontwerpen" width="300">
+<p> Aan de derde schets vind ik het de boom op de achtergrond ook heel leuk maar ik zie niet helemaal voor mij hoe dat op een desktop eruit zou zien. </p>
+<p> Bij de vierde schets vind ik het heel leuk dat de tekst (titel) op het lint staat. </p>
 
 <h3> Opdracht 21 - Verhoudingen & Grid </h3>
 <img src="readme-images/21schets.png" alt="schetsen van iphone ontwerpen" width="300">
+<p> ik zie dat hanaa had bedacht de kerst elementen heel groot te maken maar ik zou het leuker vinden als er dan meer elementen bij zouden komen, omdat er dan meer gebeurd op de pagina en naar mijn idee meer in balans is. </p>

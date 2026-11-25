@@ -16,6 +16,9 @@ html {
   --background: light-dark(#8b0000, #570000);
   --color: light-dark(white, Lavender);
 
+  --wit: white;
+  --rood: #8b0000;
+
   --whitespace: 1rem;
 }
 
@@ -31,6 +34,7 @@ main {
 
 img {
   max-width: 55%;
+  background-image: radial-gradient(var(--wit) 3%, transparent 45%);
 }
 
 header {
@@ -40,7 +44,7 @@ header {
 }
 
 p {
-  color: gold;
+  color: #e88e45;
 }
 
 header p {

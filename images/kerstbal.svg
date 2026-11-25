@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 287.92 327.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #003314;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #003314;
+      }
+
+      .cls-3 {
+        fill: #f3a736;
+      }
+
+      .cls-4 {
+        fill: #e30613;
+      }
+
+      .cls-5 {
+        fill: #7b0f00;
+      }
+    </style>
+  </defs>
+  <circle class="cls-5" cx="153.69" cy="192.87" r="134.23"/>
+  <circle class="cls-4" cx="134.23" cy="184.41" r="134.23"/>
+  <ellipse class="cls-3" cx="107.81" cy="179.67" rx="65.77" ry="94.8"/>
+  <ellipse class="cls-4" cx="123.49" cy="179.67" rx="60.18" ry="96.37"/>
+  <rect class="cls-2" x="112.39" y="21.26" width="43.68" height="34.63"/>
+  <path class="cls-1" d="M113.38,22.75c.92-2.53,3.17-7.63,8.31-11.84,1.49-1.22,6.12-5.01,11.68-5.41,8.26-.6,17.07,6.4,21.7,17.35"/>
+</svg>
