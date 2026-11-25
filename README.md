@@ -456,3 +456,12 @@ Zet de antwoorden in je Readme.</li>
 
 <h4> 3. Welk principe neem je mee in een laatste iteratie van je eigen Garden? </h4>
 <p> Principe van contrast: Door lichte gradients te gebruiken op een donkere achtergrond wil ik bepaalde elementen meer laten opvallen en een lichtgevende kerstsfeer creëren. </p>
+
+<h3> Digitale Garden </h3>
+
+<img src="readme-images/stergrid.png" alt="screenshot van de code hoe sterren zijn geplaatst" width="400">
+<p> Het centreren van de sterren was mij zelf gelukt maar ik heb aan AI moeten vragen hoe ik ervoor zorg dat ook de text in het midden van de svg staat en dat was door "display: felx;" te gebruiken. </p>
+<p> De volgende uitdaging was de sterren te verspreiden. Door middel van een class toe te voegen kon ik indivudeel aan gaan spreken. Ik zat eerst te denken aan de padding of margin aan te passen om ze zo op de goede plek te krijgen (dat lukt natuurlijk niet). </p>
+
+<img src="readme-images/stergrid1.png" alt="screenshot van de code hoe sterren zijn geplaatst" width="400">
+<p> Het is uiteindelijk gelukt om de sterretje op de goede plek te krijgen door "display:grid;" en "grid-template-columns". Ik heb de sterren individueel aangesproken om ze vervolgens allemaal een andere column en row te geven. Bijvoorbeeld grid-column: 3, grid-row:2. Hiervoor heb ik het practicum Grid 101 + Media queries 101 opnieuw doorgenomen. </p>

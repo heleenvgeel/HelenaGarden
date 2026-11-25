@@ -29,18 +29,21 @@ html {
 }
 
 main {
-  max-width: 30em;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1em;
 }
 
 img {
-  max-width: 55%;
+  max-width: 100%;
   background-image: radial-gradient(var(--wit) 3%, transparent 45%);
 }
 
 header {
   font-family: Christmasletters;
   text-align: center;
-  font-size: 4em;
+  font-size: 3em;
+  padding-top: 1em;
 }
 
 p {
@@ -70,7 +73,7 @@ footer {
 }
 
 ul {
-  list-style-type: circle;
+  list-style-type: none;
   text-align: left;
   font-size: 0.5em;
 }
@@ -78,4 +81,47 @@ ul {
 h1 {
   margin: 0;
   line-height: 1em;
+}
+
+.ster1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.ster2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+
+  grid-column: 3;
+  grid-row: 2;
+}
+
+.ster3 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+
+  grid-column: 1;
+  grid-row: 3;
+}
+
+.ster4 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+
+  grid-column: 3;
+  grid-row: 4;
+}
+.ster p {
+  margin: 0;
 }
