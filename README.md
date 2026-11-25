@@ -396,7 +396,7 @@ Zet de antwoorden in je Readme.</li>
 
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
-<h2> Practicum: Practicum Everything images </h2>
+<h2> Practicum: Everything images </h2>
 
 <img src="readme-images/practicumimg.png" alt="screenshot van oefening met foto's" width="300">
 
@@ -407,3 +407,12 @@ Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen 
 <img src="readme-images/practicumimg3.png" alt="screenshot van oefening met foto's" width="300">
 
 <h2> Woensdag 25/11/2026 </h2>
+
+<p> Theorie </p>
+<p> Gestalt principe </p>
+<li> symmetrie </li>
+<li> balans </li>
+<li> nabijheid </li>
+<li> vorm/ restvorm </li>
+<li> closure </li>
+<li> ingevulde hiaat </li>
