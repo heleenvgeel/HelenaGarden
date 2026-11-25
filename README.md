@@ -443,3 +443,16 @@ Zet de antwoorden in je Readme.</li>
 <p> Charley gaf mij het idee hoe ik een realistischer ster zou kunnen maken, namelijk in illustrater de ster lijnen maken en door middel van een gradient licht gevende gloed creeren. </p>
 <p> Met behulp van Justus is het gelukt om dit effect te creeren in code. Ik merk dat ik wel nog veel moeite heb waar ik precies bepaalde code moet neerzetten. </p>
 <p> Ik heb zelf geprobeerd de omlijning niet zichtbaar te maken maar het is uiteindelijk gelukt met behulp van een studentenassistent. Door middel van de achtergrond transparent te maken en de procenten aan te passen van de gradient is het gelukt. </p>
+
+<h3> Checkout woensdag 25/11/2026 </h3>
+
+<h4> 1. Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen. </h4>
+<li> Ingevulde hiaat: Wanneer een vorm niet helemaal compleet is, vullen onze hersenen de weggelaten delen automatisch in. Hierdoor herkennen we alsnog de volledige vorm. </li>
+<li> Principe van nabijheid: Elementen die dicht bij elkaar staan worden gezien als een groep en hierdoor is er meer structuur. </li>
+<li> Visuele hierarchie: Door bijvoorbeeld verschil in grootte en kleur wordt de aandacht van de bezoeker naar de belangrijkste elementen geleid. Hierdoor weet de bezoeker waar die als eerste naar moet kijken. </li>
+
+<h4> 2. Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? </h4>
+<p> Met een grid kun je spelen met de plaatsing en grootte van elementen, terwijl je ontwerp toch overzichtelijk blijft en een geheel vormt. </p>
+
+<h4> 3. Welk principe neem je mee in een laatste iteratie van je eigen Garden? </h4>
+<p> Principe van contrast: Door lichte gradients te gebruiken op een donkere achtergrond wil ik bepaalde elementen meer laten opvallen en een lichtgevende kerstsfeer creëren. </p>
