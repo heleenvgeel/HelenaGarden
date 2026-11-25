@@ -392,9 +392,7 @@ Zet de antwoorden in je Readme.</li>
 <p> Een website wordt leijk wanneer teksten helemaal doorlopen en daardoor niet prettig leesbaar zijn. Dat los je op door in CSS aan te geven met "max-width: 30em" waardoor de teksten bij 30em stoppen. </p>
 
 <li> Vertel welke volgende stap je neemt om je website responsive te maken. </li>
-<p>. </p>
-
-Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+<p> Volgende stap is om gebruik te maken van @media queries in CSS. Hiermee kan ik de grootte en plaatsing van elementen aanpassen aan verschillende schermformaten, zodat mijn website goed werkt op telefoon en laptop.</p>
 
 <h2> Practicum: Everything images </h2>
 
