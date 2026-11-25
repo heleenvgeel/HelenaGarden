@@ -398,13 +398,20 @@ Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen 
 
 <h2> Practicum: Everything images </h2>
 
+<h3> Oefenen: content images </h3>
 <img src="readme-images/practicumimg.png" alt="screenshot van oefening met foto's" width="300">
+<p> Afbeeldingen via photoshop naar webp veranderd. </p>
 
 <img src="readme-images/practicumimg1.png" alt="screenshot van oefening met foto's" width="300">
+<p> Met "max-width: 100%" komen de afbeeldigen naast elkaar te staan. Object-fit: contain; zorgt ervoor dat de afbeeldingen dezeelfde afmetingen hebben maar vervormd sommige afbeeldingen dan ook. Object-fit: cover; zoomd in zodat ze allemaal in hetzelfde formaat passen. </p>
 
 <img src="readme-images/practicumimg2.png" alt="screenshot van oefening met foto's" width="300">
+<p> Object-position kun je bepalen waar de afbeelding op wordt ingezoomd. En met een hover kun je leuke animaties toevoegen. </p>
 
+<h3> Oefenen: Background images </h3>
 <img src="readme-images/practicumimg3.png" alt="screenshot van oefening met foto's" width="300">
+
+<p> Door deze oefening heb ik geleerd hoe je afbeeldingen/ gif ect kan plaatsen en verplaatsen door middel van background-repeat: no-repeat/ padding-inline-start: 1.25em. </p>
 
 <h2> Woensdag 25/11/2026 </h2>
 
