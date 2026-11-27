@@ -474,4 +474,14 @@ Zet de antwoorden in je Readme.</li>
 <h3> Retrospect </h3>
 <h4> Deel 1: rangschikken </h4>
 <img src="readme-images/rangschikken.png" alt="rangschik opdracht in de klas" width="300">
-<h5> do's and dont's </h5>
+
+<h4> Deel 2: Retrospecten </h4>
+<img src="readme-images/retrospect1.png" alt="schets opdrachten" width="300">
+
+<img src="readme-images/retrospect2.png" alt="diepte en hoogte punt lijn" width="300">
+<p> Zelf vind ik dat de sprint goed is verlopen, ik heb niet echte diepte punten gehad want het is tot nu toe altijd gelukt het bij te houden. Alleen aan het begin even inkomen na de vakantie en uitzoeken wat er van mij verwacht wordt. </p>
+
+<img src="readme-images/retrospect3.png" alt="typoplan" width="300">
+
+<img src="readme-images/retrospect4.png" alt="metafoor tekening" width="400">
+<p> Ik had het idee dat ik soepel door de sprint vlieg wat ik heb uitgebeeld met een vogel die over de lijn vliegt. Daar omheen heb ik wolken gemaakt met dingen die ik heb buiten school en dat ik het nog kan combineren. </p>
