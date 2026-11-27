@@ -465,3 +465,13 @@ Zet de antwoorden in je Readme.</li>
 
 <img src="readme-images/stergrid1.png" alt="screenshot van de code hoe sterren zijn geplaatst" width="400">
 <p> Het is uiteindelijk gelukt om de sterretje op de goede plek te krijgen door "display:grid;" en "grid-template-columns". Ik heb de sterren individueel aangesproken om ze vervolgens allemaal een andere column en row te geven. Bijvoorbeeld grid-column: 3, grid-row:2. Hiervoor heb ik het practicum Grid 101 + Media queries 101 opnieuw doorgenomen. </p>
+
+<h2> Vrijdag 27/11/2026 </h2>
+
+<h3> Zelfevaluatie sprint 1 </h3>
+<img src="readme-images/zelfevaluatie1.png" alt="ingevulde zelfevaluatie formunlier" width="500">
+
+<h3> Retrospect </h3>
+<h4> Deel 1: rangschikken </h4>
+<img src="readme-images/rangschikken.png" alt="rangschik opdracht in de klas" width="300">
+<h5> do's and dont's </h5>
