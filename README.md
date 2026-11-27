@@ -334,15 +334,15 @@ Zet de antwoorden in je Readme.</li>
 <img src="readme-images/webbyschetsen.png" alt="webby formulier" width="500">
 
 <h3> Opdracht - 13 Van schets naar HTML </h3>
-<img src="readme-images/htmlschets.png" alt="schets met html" width="500">
+<img src="readme-images/HTMLschets.png" alt="schets met html" width="500">
 
 <h3> Opdracht 14 - eerste html opzet </h3>
-<img src="readme-images/htmlopzet.png" alt="begin van html opzet" width="500">
+<img src="readme-images/HTMLopzet.png" alt="begin van html opzet" width="500">
 
 <p> Ik heb een opzet gemaakt waarbij er klikbare elementen zijn die je vervolgens naar andere pagina's zou kunnen leiden. </p>
 
-<img src="readme-images/htmlopzet1.png" alt="light mode" width="400">
-<img src="readme-images/htmlopzet2.png" alt="dark mode" width="400>
+<img src="readme-images/HTMLopzet1.png" alt="light mode" width="400">
+<img src="readme-images/HTMLopzet2.png" alt="dark mode" width="400>
 
 <p> Daarna heb ik ook nog de light en dark mode alvast toegevoegd in CSS. </p>
 
