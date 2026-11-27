@@ -485,3 +485,7 @@ Zet de antwoorden in je Readme.</li>
 
 <img src="readme-images/retrospect4.png" alt="metafoor tekening" width="400">
 <p> Ik had het idee dat ik soepel door de sprint vlieg wat ik heb uitgebeeld met een vogel die over de lijn vliegt. Daar omheen heb ik wolken gemaakt met dingen die ik heb buiten school en dat ik het nog kan combineren. </p>
+
+<h3> Checkout </h3>
+
+<p> - Ik ga dit weekend verder werken aan de digitale garden. Zoals interactie toevoegen met hovers, beter fluide maken, experimenteren met kleur en vormen en misschien ook iets met het lint te proberen. </p>
